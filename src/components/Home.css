@@ -1,0 +1,29 @@
+body{
+    background-color: black;
+}
+
+.jumbotron{
+    margin-bottom: auto;
+}
+
+.person-wrapper{
+    margin-bottom: 2cm;
+}
+
+.right {
+    float: left;
+  }
+
+.bottom {
+    margin-top: 30px;
+}
+
+.btn-primary{
+    background-color: black;
+}
+
+h1{
+        text-align: center;
+        text-decoration-color: white;
+        margin-top: 200px;
+}
